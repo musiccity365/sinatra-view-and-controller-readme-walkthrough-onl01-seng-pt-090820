@@ -1,0 +1,28 @@
+{
+  "cSpell.enableFiletypes": [
+    "coffeescript",
+    "css.erb",
+    "diff",
+    "dockerfile",
+    "editorconfig",
+    "erb",
+    "gemfile",
+    "git-rebase",
+    "haml",
+    "html.erb",
+    "ignore",
+    "js.erb",
+    "jsx-tags",
+    "log",
+    "makefile",
+    "oraclesql",
+    "ruby",
+    "ruby-signature",
+    "scss.erb",
+    "search-result",
+    "solar",
+    "sql",
+    "vb",
+    "xml"
+  ]
+}
